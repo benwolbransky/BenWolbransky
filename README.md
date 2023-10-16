@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [the33rdteam.com](the33rdteam.com)
 
-- 💬 Ask me about **Sports, probability and statistics**
+- 💬 Ask me about **sports, probability and statistics**
 
 - 📫 How to reach me **b.wolbransky@gmail.com**
 
