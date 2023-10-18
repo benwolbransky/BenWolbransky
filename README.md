@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 📝 I regularly write articles on [the33rdteam](https://www.the33rdteam.com/author/benwolbransky/)
+- 📝 I regularly write articles for [the33rdteam](https://www.the33rdteam.com/author/benwolbransky/)
 
 - 💬 Ask me about **sports, probability and statistics**
 
