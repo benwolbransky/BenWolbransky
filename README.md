@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben Wolbransky</h1>
 <h3 align="center">An experienced Data Scientist a background with fin-tech, ad-tech, and sports analytics</h3>
 
-- 🏈 I have over 10k followers sharing NFL analytics on X! [@BenWolby](twitter.com/BenWolby)
+- 🏈 I have over 10k followers sharing NFL analytics on X! [@BenWolby](https://twitter.com/benwolby)
 
 - 🔭 I’m currently working on [The 2024 NFL Big Data Bowl](https://github.com/benwolbransky/BigDataBowl2024/)
 
