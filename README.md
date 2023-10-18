@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **b.wolbransky@gmail.com**
 
-- 📄 Know about my experiences [https://benwolbransky.wordpress.com/resume/](https://benwolbransky.wordpress.com/resume/)
+- 📄 Learn about my experiences [https://benwolbransky.wordpress.com/resume/](https://benwolbransky.wordpress.com/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
