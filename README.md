@@ -3,7 +3,7 @@
 
 - 🏈 I have over 10k followers sharing NFL analytics on X! [@BenWolby](https://twitter.com/benwolby)
 
-- 🔭 I’m currently working on [The 2024 NFL Big Data Bowl](https://github.com/benwolbransky/BigDataBowl2024/)
+- 🔭 I’m currently working on [The 2024 NFL Big Data Bowl](https://github.com/benwolbransky/BigDataBowl2024/) (Note: The Repo is not currently public as that would be in violation of the competition rules)
 
 - 🌱 I’m currently learning **NLP**
 
