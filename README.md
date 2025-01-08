@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ben Wolbransky</h1>
-<h3 align="center">An experienced Data Scientist a background with fin-tech, ad-tech, and sports analytics</h3>
+<h3 align="center">An experienced Sports Data Scientist with a background with fin-tech and ad-tech</h3>
 
 - 🏈 I have over 10k followers sharing NFL analytics on X! [@BenWolby](https://twitter.com/benwolby)
 
-- 🔭 I’m currently working on [The 2025 NFL Big Data Bowl](https://www.kaggle.com/code/brochillington/pasta) 
+- 🔭 I just finished working on [The 2025 NFL Big Data Bowl]([https://www.kaggle.com/code/brochillington/pasta](https://www.kaggle.com/code/brochillington/camo-the-art-of-pre-snap-disguise)) 
 - 🌱 I’m currently learning **Recommendation Engines**
-
-- 📝 I regularly write articles for [the33rdteam](https://www.the33rdteam.com/author/benwolbransky/)
 
 - 💬 Ask me about **sports, probability and statistics**
 
