@@ -3,7 +3,8 @@
 
 - 🏈 I have over 10k followers sharing NFL analytics on X! [@BenWolby](https://twitter.com/benwolby)
 
-- 🔭 I just finished working on [The 2025 NFL Big Data Bowl]([https://www.kaggle.com/code/brochillington/camo-the-art-of-pre-snap-disguise])
+- 🔭 I just finished working on [The 2025 NFL Big Data Bowl](https://www.kaggle.com/code/brochillington/camo-the-art-of-pre-snap-disguise)
+
 - 🌱 I’m currently learning **Recommendation Engines**
 
 - 💬 Ask me about **sports, probability and statistics**
